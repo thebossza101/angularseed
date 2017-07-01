@@ -22,7 +22,8 @@
       "source-map",
       "uglify-js",
       "webpack"
-    ]
+    ],
+    "skipLibCheck": true
   },
   "exclude": [
     "node_modules",
